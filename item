@@ -1,0 +1,14 @@
+items = {
+    "bread": 10,
+    "candy": 2,
+    "chocolate": 32,
+    "ice candy": 5,
+
+}
+
+item = input("Enter the Item Name: ").lower()
+if item in items:
+    print(f"The Price of {item} is {items[item]}")
+    
+else:
+    print("Sorry, Item is not found in the basket.")
