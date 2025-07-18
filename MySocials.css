@@ -1,0 +1,124 @@
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  margin-top: 400px;         
+  gap: 50px;
+  margin-left: -10px;
+}
+
+.fa-facebook, .fa-instagram, .fa-tiktok {
+  color: aqua;
+  font-size: 50px;
+
+  
+}
+
+
+
+ body {
+      background-image: url(background.jpg);
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: center;
+      background-size: cover;
+      margin:0px;
+
+    }
+    
+    h1{
+        text-align: left;
+        text-align: top;
+        color: white;
+        font-family: "press start 2p";
+        font-style: italic;
+        font-weight: lighter;
+        font-size: 39px;
+        margin-top: 40px;
+        margin-left: 20px;
+    }
+
+    
+
+
+    div{
+        color: white;
+        font-family: "press start 2p";
+        font-style: italic;
+        font-weight: lighter;
+        font-size: 20px;
+        margin-top: -130px;
+        margin-left: 25px;
+
+    }
+    
+    p{
+        width: fit-content;
+        margin-left: 10%;
+        color: white;
+        font-family: "press start 2p";
+        font-style: italic;
+        font-weight: lighter;
+        font-size: 20px;
+    }
+    
+    button{
+        color: black;
+        margin-left: 7%;
+        margin-top: 60px;
+        font-size: 20px;
+    
+
+        
+    }
+     
+    
+.navbar {
+  width: 100%;
+  padding: 10px 0;
+  position: fixed;
+  top: 0;
+  display: flex;
+  justify-content: flex-end;
+
+
+}
+
+
+.navbar ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  font-size: 20px;
+  padding-right: 180px;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+.navbar a:hover {
+  color:lime;
+}
+
+.para1{
+  color:white;
+  text-align: left;
+  text-decoration: none;
+  margin-left: 20px;
+  margin-top: -440px;
+  font-weight: lighter;
+  font-size: 25px;
+}
+
+
+
+
+
+
+    
